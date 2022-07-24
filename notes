@@ -1,0 +1,45 @@
+Nodemon - Solo Desarrollo
+
+Configuracion de GIT:
+1. git config --local user.name "Jose Martinez"
+2. git config --local user.email "jose-david-martinez@hotmail.com"
+
+Temas Importantes:
+1. Callbacks
+2. Problemas comunes con los Callbacks
+3. Promesas 
+4. Promesas en cadena
+5. Async - Await
+
+Temas de la sección: (La sección se enfoca en los siguientes temas)
+1. ¿Por qué es tan popular Node?
+2. ¿Qué es blocking y non-blocking I/O?
+3. Realizar nuestro primer programa de Node
+4. Comprender como es que Node resuelve los procesos síncronos y asíncronos
+5. Comprender el ciclo de vida de un proceso en Node
+
+NodeJS:
+- V8 Google
+- Lenguaje de Backend
+
+NodeJS Utilidades:
+- Uso de Sockets para una comunicacion real (cliente - servidor). Example: Facebook
+- Manejo de archivos en FileSystem, Cargas simultaneas
+- Servidores locales & remotos con informacion en tiempo real.
+- Conexiones a base de datos.
+- Creacion de servicios REST en segundos
+
+NodeJS Popularidad
+- Entradas y salidas que no realizan bloqueos del servidor
+- Sumamente rapido y facil de configurar
+- Mas de 470 mil paquetes disponibles (Ecosistema con mas librerias en el mundo).
+- Si ya sabes JavaScript, ya conoces la mayor parte de Node.
+
+NodeJS ... Quienes lo utilizan? 
+- Netflix
+- Paypal
+- Linkedin
+- Walmart
+- Uber
+- Ebay
+- NASA
